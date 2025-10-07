@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:FDE2FF,100:C1FFD7&height=400&section=header&text=SeungHyes's%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:a8edea,100:fed6e3&height=400&section=header&text=SeungHyes's%20GitHub)
 ## Hi there 👋
 
 
