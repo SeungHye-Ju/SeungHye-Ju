@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color0=a8edea,100=fed6e3&height=300&section=header)
-# 👋 SeungHyes's GitHub
-
+![header](https://capsule-render.vercel.app/api?type=speech&color0:a8edea,100:fed6e3&height=400&section=header&text=SeungHyes's GitHub)
 ## Hi there 👋
+
 
 <!--
 **SeungHye-Ju/SeungHye-Ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
