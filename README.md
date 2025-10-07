@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:B5EAEA,100:EDF6E5&height=400&section=header&text=SeungHyes's%20GitHub)
-## Hi there 👋
-
+## Hi👋
+# 🙋Name : SeungHye Ju
+# 🎓Major : Information and Communication Engineering  
+# 💻Programming Languages : 
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 
 <!--
 **SeungHye-Ju/SeungHye-Ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
