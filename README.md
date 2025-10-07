@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:B5EAEA,100:EDF6E5&height=400&section=header&text=SeungHyes's%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:B5EAEA,100:EDF6E5&height=400&section=header&text=SeungHye's%20GitHub)
 # Hi👋
 ## 🙋Name : SeungHye Ju
 ## 🎓Major : Information and Communication Engineering  
